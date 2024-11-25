@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{bauer06}
+Andrej Bauer.
+\newblock First steps in synthetic computability theory.
+\newblock {\em Electronic Notes in Theoretical Computer Science}, 155:5--31,
+  2006.
+
+\bibitem{ersov80}
+Yuri~L. Ershov.
+\newblock {\em The theory of enumerations}.
+\newblock Nauka, 1980.
+
+\bibitem{lawvere69}
+F.~William Lawvere.
+\newblock Diagonal arguments and cartesian closed categories.
+\newblock {\em Lecture Notes in Mathematics}, 92:134--145, 1969.
+\newblock Republished in: Reprints in Theory and Applications of Categories,
+  No. 15 (2006), 1--13.
+
+\bibitem{lesnik10}
+Davorin Lešnik.
+\newblock {\em Synthetic Topology and Constructive Metric Spaces}.
+\newblock PhD thesis, University of Ljubljana, 2010.
+
+\bibitem{hottbook}
+The {Univalent Foundations Program}.
+\newblock {\em Homotopy Type Theory: Univalent Foundations of Mathematics}.
+\newblock \url{https://homotopytypetheory.org/book}, Institute for Advanced
+  Study, 2013.
+
+\end{thebibliography}
